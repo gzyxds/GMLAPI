@@ -1,8 +1,8 @@
 import { defineConfig } from "vitepress";
 	export default defineConfig({
-  "title": "CNAI-API",
-  "keywords": "CNAIAPI,OpenAI,Openkey,API中转,OpenAI接入,apikey,chatgptapikey,midjourney接口,Stable Diffusion,Suno,Luma,DALL-E,Runway,Kling,Viggle,Ideogram,Flex",
-  "description": "CNAI-API行业领先的AI资源服务提供商，汇集OpenAI, Claude, MidJourney, Suno, Luma ，DALL-E，CLIP，MidJourney，Stable Diffusion 等全球顶级品牌的先进API接口。提供零月费、按需付费的灵活计费模式，让技术爱好者、小型企业、学校和个人用户都能轻松享受高质量的人工智能服务。无论是聊天机器人、绘图机器人还是高效语音转换与精确文字识别，加入CNAI-API，带来的无限可能，探索并集成最前沿的技术到您的产品中，共同推动创新与发展，为客户创造更多价值。",
+  "title": "GMLAPI",
+  "keywords": "GMLAPI,OpenAI,Openkey,API中转,OpenAI接入,apikey,chatgptapikey,midjourney接口,Stable Diffusion,Suno,Luma,DALL-E,Runway,Kling,Viggle,Ideogram,Flex",
+  "description": "CGMLAPI行业领先的AI资源服务提供商，汇集OpenAI, Claude, MidJourney, Suno, Luma ，DALL-E，CLIP，MidJourney，Stable Diffusion 等全球顶级品牌的先进API接口。提供零月费、按需付费的灵活计费模式，让技术爱好者、小型企业、学校和个人用户都能轻松享受高质量的人工智能服务。无论是聊天机器人、绘图机器人还是高效语音转换与精确文字识别，加入CNAI-API，带来的无限可能，探索并集成最前沿的技术到您的产品中，共同推动创新与发展，为客户创造更多价值。",
   "themeConfig": {
     "siteTitle": false,
     "logo": "https://payphp.oss-cn-shenzhen.aliyuncs.com/CNAPI.svg",
