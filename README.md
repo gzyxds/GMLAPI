@@ -99,5 +99,5 @@ npm run docs:preview
 
 ## 📝 许可证
 
-本文档源码遵循 [MIT License](LICENSE)。
+本文档源码遵循 [MIT License](https://github.com/gzyxds/GMLAPI/blob/main/LICENSE)。
 版权所有 © 2024-present GMLAPI
