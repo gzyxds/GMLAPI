@@ -1,14 +1,26 @@
 {
-  "name": "cnai-api",
+  "name": "gmlapi",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "devDependencies": {
-    "vitepress": "^1.6.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzyxds/GMLAPI.git"
   },
-  "packageManager": "pnpm@9.15.0",
-  "dependencies": {}
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzyxds/GMLAPI/issues"
+  },
+  "homepage": "https://github.com/gzyxds/GMLAPI#readme",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.25"
+  }
 }

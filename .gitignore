@@ -6,5 +6,3 @@ cache
 .vitepress/dist
 .vitepress/cache
 *.local
-.idea
-.vscode
