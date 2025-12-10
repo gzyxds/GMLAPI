@@ -26,7 +26,8 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '用户指南', link: '/guide/' },
       { text: '使用场景', link: '/scenarios/' },
-      { text: '快速接入', link: '/access/' }
+      { text: '快速接入', link: '/access/' },
+      
     ],
 
     sidebar: [
@@ -35,7 +36,8 @@ export default defineConfig({
         items: [
           { text: '用户指南', link: '/guide/' },
           { text: '使用场景', link: '/scenarios/' },
-          { text: '快速接入', link: '/access/' }
+          { text: '快速接入', link: '/access/' },
+          { text: '备份迁移', link: '/backup/' },
         ]
       }
     ],
